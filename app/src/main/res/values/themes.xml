@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Change the parent theme to AppCompat -->
+    <style name="Theme.HCI_App" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- You can customize additional attributes here, such as colors -->
+ 
+    </style>
+
+</resources>
